@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eva/CLionProjects/redis/src/modules/testmodule.c
+../redismodule.h
+/Users/eva/CLionProjects/redis/src/redismodule.h
+string.h
+-
+
+/Users/eva/CLionProjects/redis/src/redismodule.h
+sys/types.h
+-
+stdint.h
+-
+stdio.h
+-
+
