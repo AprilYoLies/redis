@@ -142,7 +142,7 @@
       <workItem from="1574998155378" duration="36000" />
       <workItem from="1574998326893" duration="795000" />
       <workItem from="1578030048611" duration="85000" />
-      <workItem from="1578030227336" duration="921000" />
+      <workItem from="1578030227336" duration="1071000" />
     </task>
     <task id="LOCAL-00001" summary="初始化工程">
       <created>1578030966494</created>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578030966495</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始化工程">
+      <created>1578031196934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578031196934</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,10 +170,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="初始化工程" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1089" y="505" width="936" height="909" key="CommitChangelistDialog2" timestamp="1578031078705">
+    <state x="1089" y="505" width="936" height="909" key="CommitChangelistDialog2" timestamp="1578031290728">
       <screen x="0" y="23" width="3008" height="1618" />
     </state>
-    <state x="1089" y="505" width="936" height="909" key="CommitChangelistDialog2/0.23.3008.1618@0.23.3008.1618" timestamp="1578031078705" />
+    <state x="1089" y="505" width="936" height="909" key="CommitChangelistDialog2/0.23.3008.1618@0.23.3008.1618" timestamp="1578031290728" />
     <state width="1467" height="211" key="GridCell.Tab.0.bottom" timestamp="1578030579453">
       <screen x="0" y="23" width="3008" height="1618" />
     </state>
@@ -187,10 +194,10 @@
       <screen x="0" y="23" width="3008" height="1618" />
     </state>
     <state x="1021" y="561" width="976" height="771" key="SettingsEditor/0.23.3008.1618@0.23.3008.1618" timestamp="1578031037314" />
-    <state x="1107" y="665" key="Vcs.Push.Dialog.v2" timestamp="1578031119346">
+    <state x="1107" y="665" key="Vcs.Push.Dialog.v2" timestamp="1578031203340">
       <screen x="0" y="23" width="3008" height="1618" />
     </state>
-    <state x="1107" y="665" key="Vcs.Push.Dialog.v2/0.23.3008.1618@0.23.3008.1618" timestamp="1578031119346" />
+    <state x="1107" y="665" key="Vcs.Push.Dialog.v2/0.23.3008.1618@0.23.3008.1618" timestamp="1578031203340" />
     <state x="1146" y="850" key="com.intellij.ide.util.TipDialog" timestamp="1578030052270">
       <screen x="0" y="23" width="3008" height="1618" />
     </state>
